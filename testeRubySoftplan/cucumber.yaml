@@ -1,0 +1,4 @@
+---
+default: -p html -p bdd
+html: --format html --out=log/features.html
+bdd: --format pretty
